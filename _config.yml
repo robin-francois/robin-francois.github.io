@@ -14,10 +14,11 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: r2gf_
 github_username:  robin-francois
+linkedin_link: https://ch.linkedin.com/in/robinfrancois
 
 # Footer
-footer_left: "The views expressed on this web site/blog are mine alone and do not necessarily reflect the views of my employer</a>"
-footer_right: "Based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a> by JacobTomlison"
+footer_left: "My views are my own, not of my employers.</a>"
+footer_right: "Jekyll theme based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a> by <a href=\"http://www.jacobtomlinson.co.uk/\">Jacob Tomlison</a>"
 
 # Build settings
 markdown: redcarpet
