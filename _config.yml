@@ -4,7 +4,9 @@ email: anything@r2gf.com
 description: "IT Security, member of the dul.ac CTF team. Loves brezel and to know how things work (to eventually break them)"
 baseurl: ""
 url: "http://r2gf.com"
-title_description: "IT Security, member of the dul.ac CTF team. Loves brezel and to know how things work (to eventually break them)
+title_description: "IT Security Engineer at <a href=\"https://www.navixia.com">Navixia</a>
+Member of the <a href=\"https://twitter.com/dul_ac\">dul.ac CTF team</a> 
+Loves brezel and to know how things work (to eventually break them)
 "
 title_image: "img/avatar.png"
 github_repository: https://github.com/robin-francois
