@@ -1,11 +1,12 @@
 # Site settings
-title: ""
+title: "Robin François"
 email: anything@r2gf.com
 description: "IT Security, member of the dul.ac CTF team. Loves brezel and to know how things work (to eventually break them)"
 baseurl: ""
 url: "http://r2gf.com"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
-title_image: "https://pbs.twimg.com/profile_images/590128177499930624/BG66Zbvt.png"
+title_description: "IT Security, member of the dul.ac CTF team. Loves brezel and to know how things work (to eventually break them)
+"
+title_image: "img/avatar.png"
 github_repository: https://github.com/robin-francois
 post_limit: 5
 
@@ -14,7 +15,7 @@ twitter_username: r2gf_
 github_username:  robin-francois
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_r2gf\">Robin François</a>"
+footer_left: "The views expressed on this web site/blog are mine alone and do not necessarily reflect the views of my employer</a>"
 footer_right: "Based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a> by JacobTomlison"
 
 # Build settings
