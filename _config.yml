@@ -18,7 +18,7 @@ linkedin_link: https://ch.linkedin.com/in/robinfrancois
 
 # Footer
 footer_left: "My views are my own, not of my employers.</a>"
-footer_right: "Jekyll theme based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a> by <a href=\"http://www.jacobtomlinson.co.uk/\">Jacob Tomlison</a>"
+footer_right: "Theme based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
 
 # Build settings
 markdown: redcarpet

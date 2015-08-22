@@ -159,46 +159,15 @@ ul {
 .links {
 	margin-top: 50px;
 	text-align: center;
+    a, a:active {
+        color: $light-blue;
+        text-decoration: none;
+    }
 
-	i {
-		padding-left: 5px;
-		padding-right: 5px;
-
-		@media (min-width: $screen-sm-min) {
-			padding-left: 10px;
-			padding-right: 10px;
-		}
-	}
-
-	.fa {
-		-webkit-transition: 0.3s;
-		-moz-transition: 0.3s;
-		transition: 0.3s;
-	}
-
-	.fa-twitter:hover {
-		color: $twitter;
-	}
-
-	.fa-linkedin:hover {
-		color: $linkedin;
-	}
-
-	.fa-google-plus:hover {
-		color: $google-plus;
-	}
-
-	.fa-github-alt:hover {
-		color: $github;
-	}
-
-	.fa-stack-overflow:hover {
-		color: $stack-overflow;
-	}
-
-	.fa-rss:hover {
-		color: $rss;
-	}
+    a:hover {
+        color: $dark-blue;
+        text-decoration: none;
+    }
 }
 
 /* Index */
