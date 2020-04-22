@@ -30,4 +30,4 @@ redcarpet:
 permalink: pretty
 exclude: [vendor]
 plugins:
-    -jemoji
+    - jemoji
