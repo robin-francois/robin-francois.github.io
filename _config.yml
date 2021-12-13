@@ -1,10 +1,10 @@
 # Site settings
 title: "Robin François"
 email: anything@r2gf.com
-description: "Job: Digital Archivist Cinémathèque Suisse | Hobby: Preservation of video games in :ch: | @aaru_dps Technical Committee"
+description: "Job: Digital Archivist Cinémathèque Suisse | Hobby: Preservation of video games in Switzerland | Aaru Technical Committee"
 baseurl: "http://www.r2gf.com"
 url: "http://www.r2gf.com"
-title_description: 'Job: Digital Archivist Cinémathèque Suisse | Hobby: Preservation of video games in :ch: | @aaru_dps Technical Committee'
+title_description: 'Job: Digital Archivist Cinémathèque Suisse | Hobby: Preservation of video games in Switzerland | AAru Technical Committee'
 title_image: "img/avatar.png"
 github_repository: https://github.com/robin-francois
 post_limit: 5
